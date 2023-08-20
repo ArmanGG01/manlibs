@@ -180,7 +180,7 @@ class Client(Methods):
     """
 
     APP_VERSION = f"Pyrogram {__version__}"
-    DEVICE_MODEL = "PyroKar-Ubot"
+    DEVICE_MODEL = "Pyro Project"
     SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
 
     LANG_CODE = "en"
